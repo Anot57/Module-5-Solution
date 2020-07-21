@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Assignment 01</title>
+</head>
+<body bgcolor="#D1F2EB">
+	<img src="vitlgo.jpg" alt="vitlogo" align="left" height="150" width="230">
+	<font size="5" color="#2E86C1"><h1><u><center>HTML 5 Game Development Course Assignment</center></u></h1></font>
+	<div>
+		<p>
+			<font size="5" color="#FA8072">
+				<br><br><br><u><b> Application Number:</b></u><span> 2019013393</span>
+			</font>	
+		</p>
+	</div>
+	<div>
+		<p>
+			<font size="5" color="#800080">
+				<u><b> Student Name:</b></u><span> Amman Agrawal</span>	
+			</font>	
+		</p>
+	</div>
+	<div>
+		<p>
+			<font size="5" color="#50FF33">
+				<u><b> Registration Number:</b></u><span> 19BCG10057</span>
+			</font>
+		</p>
+	</div>
+	<div>
+		<p>
+			<font size="5" color="#FFC133">
+				<u><b> Date of Birth:</b></u><span>1<sup>st</sup> July 2001</span>
+			</font>
+		</p>
+	</div>
+	<div>
+		<p>
+			<font size="5" color="#6C3483">
+				<u><b> College:</b></u><span> VELLORE INTITUTE OF TECHNOLOGY BHOPAL UNIVERSITY</span>
+			</font>
+		</p>
+	</div>
+	<div>
+		<p>
+			<font size="5" color="#E74C3C">
+				<u><b> Occupation:</b></u><span> 2<sup>nd</sup> Year Student </span>
+			</font>	
+		</p>
+	</div>
+	<div>
+		<p>
+			<font size="5" color="#117A65">
+				<u><b>Hosteller:</b></u><span> YES</span>
+			</font>
+		</p>
+	</div>
+	<div>
+		<p>
+			<font size="5" color="#85C1E9">
+				<u><b>Program:</b></u><span> B.TECH</span>
+			</font>	
+		</p>
+	</div>
+	<div>
+		<p>
+			<font size="5" color="#EC7063">
+				<u><b>Branch:</b></u><span> Computer Science and Engineering with Specialization in Gaming Technology</span>
+			</font>	
+		</p>
+	</div>
+	<div>
+		<p>
+			<font size="5" color="#6E2C00">
+				<u><b>School:</b></u><span>	School of Computing Sciences and Engineering</span>
+			</font>	
+		</p>
+	</div>
+	<div>
+		<p>
+			<font size="5" color="#F5B041">
+				<u><b>E Mail:</b></u><span> amman.agrawal2019@vitbhopal.ac.in</span>
+			</font>	
+		</p>
+	</div>
+</body>
+</html>
